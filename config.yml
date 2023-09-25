@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://daveokpare.github.io/" 
+title: David Okpare
 paginate: 20
 theme: PaperMod
 
@@ -28,8 +28,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
-    author: Pascal Michaillat
+    description: "I am a Software Engineer. My works involves use of backend systems, machine learning, and cloud technologies."
+    author: David Okpare
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,8 +52,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists and why it fluctuates over the business cycle. I also study how macroeconomic policies—including monetary policy, government spending, unemployment insurance, and immigration—should respond to such cyclical fluctuations."
+          title: David Okpare
+          subtitle: "I am a Software Engineer. My works involves use of backend systems, machine learning, and cloud technologies."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
